@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SoulcaliburVI.exe
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/12898943196981100544
+Icon=/home/default/Downloads/default2/Screenshot from 2025-08-27 16-00-15.png
+Terminal=false
+Type=Application
+Categories=Game;
+Name[en_US]=SoulcaliburVI
